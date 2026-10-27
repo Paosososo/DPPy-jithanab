@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 num = float(input().strip())
 
 if num < 0:

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 password = "Python is awesome"
 user_input = input().strip()
 

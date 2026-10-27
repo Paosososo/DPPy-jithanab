@@ -1,7 +1,9 @@
-print("Enter the first number:")
+#!/usr/bin/env python3
+
+print("Enter the first number: ")
 first = int(input().strip())
 
-print("Enter the second number:")
+print("Enter the second number: ")
 second = int(input().strip())
 
 result = first * second
