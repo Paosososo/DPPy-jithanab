@@ -8,4 +8,3 @@ else:
         print(param)
 
 
-print(reversed(sys.argv[1:]))
