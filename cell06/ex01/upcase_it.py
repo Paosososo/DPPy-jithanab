@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+def upcase_it(input):
+    return input.upper()
+
+print(upcase_it("hello"))
